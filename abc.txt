@@ -1,1 +1,13 @@
-hello world
+#include<stdio.h>
+main()
+{
+int a,d,c;
+printf("enter the values");
+a=2;
+b=3;
+printf("sum of a,b");
+scanf("%d %d",&a,&b);
+c=a+b;
+printf("print c");
+scanf("%d",&c);
+}
